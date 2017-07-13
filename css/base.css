@@ -157,6 +157,10 @@ h3,
 	border-radius: 5px;
 }
 
+.logo {
+	width: 85vh;
+}
+
 .row ul {
         list-style: inside;
 	padding-left: 1em;
